@@ -1,1 +1,1 @@
-export const API_URL = '/api/proxy';
+export const API_URL = 'http://195.58.37.54:8080';
